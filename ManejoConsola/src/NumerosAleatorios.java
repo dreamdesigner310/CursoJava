@@ -2,7 +2,6 @@ import java.util.Random;
 
 public class NumerosAleatorios {
     public static void main(String[] args) {
-        System.out.println("*** Números Aleatorios ***");
         var random = new Random();
 
         // General un numero aleatorio entre 0 y 9

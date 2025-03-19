@@ -1,8 +1,8 @@
 public class DetalleLibro {
     public static void main(String[] args) {
         // Detalle de un Libro
-        String tituloLibro = "El señor de los anillos";
-        int anioPublicacion = 1954;
+        String tituloLibro = "Harry Potter";
+        int anioPublicacion = 1234;
         boolean libroDisponible = true;
         double precio = 500.50;
 
@@ -11,7 +11,7 @@ public class DetalleLibro {
         System.out.println(libroDisponible);
         System.out.println(precio);
         // Modificar el titulo del libro
-        tituloLibro = "El Señor de los Anillos";
+        tituloLibro = "Harry Potter";
         System.out.println(tituloLibro);
     }
 }

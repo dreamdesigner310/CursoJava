@@ -2,7 +2,7 @@ public class generadorEmail {
     public static void main(String[] args) {
         // Datos Usuario
         System.out.println("*** Generador de Email ***");
-        var nombreCompleto = " Ubaldo Acosta Soto ";
+        var nombreCompleto = " Miguel Sanchez Hernandez ";
         System.out.println("Nombre usuario: " + nombreCompleto);
 
         // Correcion Datos Usuario
@@ -12,9 +12,9 @@ public class generadorEmail {
         System.out.println("Nombre usuario normalizado: " + nombreNormalizado);
 
         // Datos Empresa
-        var nombreEmpresa = " Global Mentoring ";
+        var nombreEmpresa = " Google ";
         System.out.println("\nNombre empresa: " + nombreEmpresa);
-        var extensionDominio = ".com.mx";
+        var extensionDominio = ".com.es";
         System.out.println("Extension del dominio = " + extensionDominio);
 
         // Correcion Datos Empresa
